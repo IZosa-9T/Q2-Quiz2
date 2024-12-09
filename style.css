@@ -1,0 +1,36 @@
+body {
+	background-image: url('bg.jpg');
+}
+
+.container {
+	background-color: rgb(57, 66, 74, 0.8);
+}
+
+label {
+	color: white;
+}
+
+.btn {
+	background-color: #CED5DB;
+	color: rgb(57, 66, 74, 0.8);
+}
+
+h3 {
+	color: #CED5DB;
+}
+
+.nav {
+	background-color: rgb(57, 66, 74, 0.9);
+	padding: 10px;
+	position: fixed;
+	width: 100%;
+}
+
+.nav-link {
+	color: #F3F5F4;
+}
+
+.nav-link:hover {
+	color: #414951;
+	background-color: rgb(245, 247, 246, 0.5);
+}
